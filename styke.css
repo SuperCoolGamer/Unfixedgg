@@ -1,0 +1,16 @@
+body{
+    background-color:violet !important;
+    text-align:center;
+}
+
+
+#Accuracy{
+    color:White;
+    font-family: 'Abril Fatface', cursive;
+}
+
+
+#Object{
+    color:White;
+    font-family: 'Righteous', cursive;
+}
